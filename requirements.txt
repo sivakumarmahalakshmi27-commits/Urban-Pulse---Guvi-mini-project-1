@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+sqlalchemy
+pymysql
+cryptography
+streamlit
+altair
+jupyterlab
+requests
