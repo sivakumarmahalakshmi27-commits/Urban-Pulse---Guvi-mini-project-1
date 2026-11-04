@@ -1,0 +1,18 @@
+step,count
+Raw rows loaded,118866
+Duplicate unique_key rows removed,0
+created_date: values that failed to parse,0
+closed_date: values that failed to parse,0
+due_date: values that failed to parse,0
+resolution_action_updated_date: values that failed to parse,0
+Text columns trimmed; 5 columns uppercased,17
+complaint_type rows with case variants standardised,192
+Invalid ZIP format (flagged),0
+Missing coordinates,2429
+Coordinates outside NYC box,0
+Closed before created (flagged),27
+Future dates (flagged),0
+Closed date present but status not Closed (flagged),482
+Rows with valid resolution_hours,114660
+Final cleaned rows,118866
+Action-updated before created (flagged),1781
